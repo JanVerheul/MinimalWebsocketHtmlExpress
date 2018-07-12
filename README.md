@@ -1,0 +1,1 @@
+This repository contains the bare minimum example of a web page making a websocket connection and sending and receiving repeated messages via that connection. The websocket resource is a web service build with Express (express-ws) and it is loaded with a browser WebSocket object.
